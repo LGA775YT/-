@@ -31137,63 +31137,151 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/xcu9A9qOM37O_rSp-HRQSgUzwyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283091/b2c394.jpg",7.Villarreal vs Leganes - LaLiga (00:00 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/2FsjQRgnxCWOMBJ8LxaCmw7aRlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287202/04d44c.jpg", 1.Bali United FC vs Madura United FC - BRI Liga 1 (15:00 - 17 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6299&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6299&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17623&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17623&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/1zXtvitWNo8p7XxsSH3AGTYAJeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282694/463289.jpg", 8.Feyenoord vs RKC Waalwijk - Eredivisie (00:50 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/DkYIPIKMLTkeOtSGsjx2k2g7fgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4288954/4c790c.jpg", 2.PS. Barito Putera vs PSM Makassar - BRI Liga 1 (15:24 - 17 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17629&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17629&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17622&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17622&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/hcQuHSMyMwVhphH8y0B5ssKR6Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282693/e99a4d.jpg", 9.PSV vs Heracles - Eredivisie (00:50 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/O1X-B4z5O6TxtEuFs2qYtlLq0ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4287201/f65136.jpg", 3.PSS Sleman vs Persija - BRI Liga 1 (18:30 - 17 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18356&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18356&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17623&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17623&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/LaTZoESzYYckw_rJAHDVlAhypc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4285134/13e233.jpg", 10.Twente vs AZ Alkmaar - Eredivisie (00:55 - 15 May 2025)
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://thumbor.prod.vidiocdn.com/BpUCznNdU5q4S-LGpwApwINOcY4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4288964/8b665d.jpg", 4.Persis vs Dewa United FC - BRI Liga 1 (19:00 - 17 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6686&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17625&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17625&type=dash
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/tJxjSBrMWm-HRDpZOcE9ZSjCqn4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282691/8e8c89.jpg", 11.FC Groningen vs Ajax - Eredivisie (01:00 - 15 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6685&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6685&type=dash
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 4b.Pro League al nassr vs al taawon 2025-05-17 01:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1252699
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/vs_GVB2ovwbi-Q3fNtEtpHcB01I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282689/ae44e6.jpg", 12.ATP 1000: Internazionali BNL d'Italia 2025 - Quarter Final (01:30 - 15 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17875&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17875&type=dash
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 5.Primeira Liga rio ave vs gil vicente 2025-05-17 01:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1232033
 
-#EXTINF:-1 group-title="#.-LIVE EVENT TGL 14-15 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/CX9B4Ow-hMFfdubaafUmNYF7Xp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4283090/c77554.jpg", 13.Real Madrid vs Mallorca - LaLiga (02:25 - 15 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=6317&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=6317&type=dash
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 6.Segunda División levante vs albacete 2025-05-17 01:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1217935
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 7.Premier League aston villa vs tottenham 2025-05-17 01:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208384
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 8.Premiership livingston vs partick 2025-05-17 01:45 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1375032
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 9.League Two walsall vs chesterfield 2025-05-17 02:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1374052
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 9.Premier League chelsea vs manchester united 2025-05-17 02:15 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208387
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 10.USL League One charlotte independence vs one knoxville 2025-05-17 06:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1326804
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 11.Canadian Premier League valour vs york united 2025-05-17 07:00 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1350714
+
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1355215
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 12.Premiership celtic vs st mirren 2025-05-17 18:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1371488
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 13.League Two afc wimbledon vs notts county 2025-05-17 18:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1374050
 
 
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 14.Bundesliga rb leipzig vs vfb stuttgart 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224272
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 15.Bundesliga borussia dortmund vs holstein kiel 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224273
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 16.Bundesliga 1 fc heidenheim vs werder bremen 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224275
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 17.Bundesliga sc freiburg vs eintracht frankfurt 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224276
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 18.Bundesliga borussia monchengladbach vs vfl wolfsburg 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224279
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 19.Bundesliga fsv mainz 05 vs bayer leverkusen 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224278
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 20.Bundesliga fc st pauli vs vfl bochum 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224280
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 21.Bundesliga hoffenheim vs bayern munchen 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224274
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 22.Bundesliga fc augsburg vs union berlin 2025-05-17 20:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1224277
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 23.Eredivisie ado den haag vs telstar 2025-05-17 21:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1375155
+
+#EXTINF:-1 group-title="#.-LIVE EVENT " tvg-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png", 24.FA Cup crystal palace vs manchester city 2025-05-17 22:30 WIB
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1373151
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
